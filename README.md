@@ -77,7 +77,7 @@ I'm a Computer Science student passionate about **Artificial Intelligence, Machi
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akshat017-beep/akshat017-beep/main/github-streak-stats.svg" alt="GitHub Streak Stats"/>
+  <img src="https://raw.githubusercontent.com/akshat017-beep/cyberpunk-profile/main/github-streak-stats.svg" alt="GitHub Streak Stats"/>
 </p>
 
 ---
@@ -85,7 +85,7 @@ I'm a Computer Science student passionate about **Artificial Intelligence, Machi
 ## 🕹️ Pac-Man Eats My Contributions!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akshat017-beep/akshat017-beep/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph"/>
+  <img src="https://raw.githubusercontent.com/akshat017-beep/cyberpunk-profile/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph"/>
 </p>
 
 ---
@@ -93,7 +93,7 @@ I'm a Computer Science student passionate about **Artificial Intelligence, Machi
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akshat017-beep/akshat017-beep/output/github-snake.svg" alt="GitHub contribution snake"/>
+  <img src="https://raw.githubusercontent.com/akshat017-beep/cyberpunk-profile/output/github-snake.svg" alt="GitHub contribution snake"/>
 </p>
 
 ---
@@ -101,9 +101,9 @@ I'm a Computer Science student passionate about **Artificial Intelligence, Machi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akshat017-beep/akshat017-beep/main/github-stats.svg" alt="GitHub Statistics"/>
+  <img src="https://raw.githubusercontent.com/akshat017-beep/cyberpunk-profile/main/github-stats.svg" alt="GitHub Statistics"/>
   <br/>
-  <img src="https://raw.githubusercontent.com/akshat017-beep/akshat017-beep/main/top-languages.svg" alt="Top Languages"/>
+  <img src="https://raw.githubusercontent.com/akshat017-beep/cyberpunk-profile/main/top-languages.svg" alt="Top Languages"/>
 </p>
 
 ---
